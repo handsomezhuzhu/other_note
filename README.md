@@ -6,7 +6,7 @@
 2、大学物理  
 3、数学分析（由于一些原因我暂时不更新了）  
 4、…………
-* 如果你是在Gitee上查看这个仓库，请移步至https://github.com/handsomezhuzhu，加入我们的开源项目，因为Gitee会被无情覆盖掉。
+* 如果你是在Gitee上查看这个仓库，请移步至[Github](https://github.com/handsomezhuzhu)，加入我们的开源项目，因为Gitee会被无情覆盖掉。
 ## 版权声明
 **Copyright © 2024 Simon**
 
